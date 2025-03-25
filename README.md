@@ -10,6 +10,11 @@
 - **Pricing Control**: Easily adjust room prices and other hotel services.
 - **Dark Mode**: Toggle between light and dark themes for better user experience.
 
+## Live Demo 🌍
+
+The application is hosted on Netlify. You can access it here:  
+👉 [The Wild Oasis](https://the-wild-oasis-og.netlify.app)
+
 ## Screenshots 📸
 
 1. **Login Page**  
