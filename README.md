@@ -1,8 +1,94 @@
-# React + Vite
+# The Wild Oasis 🏨
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**The Wild Oasis** is a hotel management system designed to help hotel employees efficiently manage rooms, bookings, and pricing. With a user-friendly dashboard, staff can add new users, update room availability, change prices, and gain insights into hotel operations.
 
-Currently, two official plugins are available:
+## Features 🌟
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **User Management**: Add and manage hotel employees with role-based access.
+- **Dashboard Overview**: Provides key hotel metrics, including bookings, occupancy, and revenue.
+- **Room & Booking Management**: Add, update, and remove room details and manage guest reservations.
+- **Pricing Control**: Easily adjust room prices and other hotel services.
+- **Reports & Analytics**: Track performance with real-time data insights.
+- **Dark Mode**: Toggle between light and dark themes for better user experience.
+
+## Screenshots 📸
+
+1. **Login Page**  
+   ![Login Page](path-to-login-image.png)
+
+2. **Dashboard Overview**  
+   ![Dashboard](path-to-dashboard-image.png)
+
+3. **Room Management**  
+   ![Room Management](path-to-room-management-image.png)
+
+4. **Booking Management**  
+   ![Booking Management](path-to-booking-image.png)
+
+5. **Reports & Analytics**  
+   ![Reports & Analytics](path-to-reports-image.png)
+
+## Getting Started 🚀
+
+To run this project locally, follow these steps:
+
+### Prerequisites
+
+- Node.js and npm installed on your system.
+- Access to the project's source code repository.
+
+### Steps
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/yourusername/the-wild-oasis.git
+   ```
+
+2. **Navigate to the project directory:**
+
+   ```bash
+   cd the-wild-oasis
+   ```
+
+3. **Install dependencies:**
+
+   ```bash
+   npm install
+   ```
+
+4. **Set up environment variables:**
+
+   - Create a `.env` file in the root directory.
+   - Add necessary environment variables as specified in the `.env.example` file.
+
+5. **Start the development server:**
+
+   ```bash
+   npm run dev
+   ```
+
+6. **Access the application:**
+   - Open [http://localhost:3000](http://localhost:3000) in your browser.
+
+## Built With 🛠
+
+- **JavaScript & TypeScript**: Used for front-end and back-end development.
+- **React.js**: For building the user interface.
+- **Redux**: State management.
+- **React Query**: For data fetching and caching.
+- **Styled Components**: For styling the application.
+- **Node.js & Express.js**: Backend server and API handling.
+- **Supabase**: Database for storing application data.
+
+## Contributing 🤝
+
+Contributions are welcome! To contribute:
+
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature/YourFeature`).
+3. Commit your changes (`git commit -m 'Add some feature'`).
+4. Push to the branch (`git push origin feature/YourFeature`).
+5. Open a Pull Request.
+
+---
