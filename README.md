@@ -18,16 +18,25 @@ The application is hosted on Netlify. You can access it here:
 ## Screenshots 📸
 
 1. **Login Page**  
-   ![Login Page](path-to-login-image.png)  
+   ![Login Page](![image](https://github.com/user-attachments/assets/ce5a7368-ec46-4638-b383-a464aa29951c))  
 
 2. **Dashboard Overview**  
-   ![Dashboard](path-to-dashboard-image.png)  
+   ![Dashboard](![image](https://github.com/user-attachments/assets/a4f296a0-352a-4856-8fc2-7b7a3c113465))  
 
 3. **Room Management**  
-   ![Room Management](path-to-room-management-image.png)  
+   ![Room Management](![image](https://github.com/user-attachments/assets/dfb9e4b8-6542-49a4-933a-04f5d8446ff8))  
 
 4. **Booking Management**  
-   ![Booking Management](path-to-booking-image.png)  
+   ![Booking Management](![image](https://github.com/user-attachments/assets/c14e86c1-849f-4081-8693-5540b0e6f2f8))
+   
+5. **Adding new users**  
+   ![Adding new users](![image](https://github.com/user-attachments/assets/6c2e0d67-3c41-48a7-b683-cc3c2de4e458))
+   
+6. **User Profile Management**  
+   ![User Management](![image](https://github.com/user-attachments/assets/7c1982d1-f306-41fd-92b0-4376d5219f88))
+   
+7. **Settings**  
+   ![Settings](![image](https://github.com/user-attachments/assets/e039ef02-b260-4ef0-a34c-e89cda8611d2))
 
 ## Getting Started 🚀
 
