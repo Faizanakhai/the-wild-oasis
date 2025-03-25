@@ -18,25 +18,25 @@ The application is hosted on Netlify. You can access it here:
 ## Screenshots 📸
 
 1. **Login Page**  
-   ![Login Page](![image](https://github.com/user-attachments/assets/ce5a7368-ec46-4638-b383-a464aa29951c))  
-
-2. **Dashboard Overview**  
-   ![Dashboard](![image](https://github.com/user-attachments/assets/a4f296a0-352a-4856-8fc2-7b7a3c113465))  
-
-3. **Room Management**  
-   ![Room Management](![image](https://github.com/user-attachments/assets/dfb9e4b8-6542-49a4-933a-04f5d8446ff8))  
-
-4. **Booking Management**  
-   ![Booking Management](![image](https://github.com/user-attachments/assets/c14e86c1-849f-4081-8693-5540b0e6f2f8))
+   ![Login Page](![Screenshot 2025-03-25 132449](https://github.com/user-attachments/assets/0c1e076f-7b47-4f1b-a471-d54098089768))
    
-5. **Adding new users**  
-   ![Adding new users](![image](https://github.com/user-attachments/assets/6c2e0d67-3c41-48a7-b683-cc3c2de4e458))
+3. **Dashboard Overview**  
+   ![Dashboard](![Screenshot 2025-03-25 132405](https://github.com/user-attachments/assets/809d113b-e764-4e10-9ebc-ecc6de409e20))  
+
+4. **Room Management**  
+   ![Room Management](![Screenshot 2025-03-25 132548](https://github.com/user-attachments/assets/2fcf9196-785f-47dc-8fbf-fa877460084b))  
+
+5. **Booking Management**  
+   ![Booking Management](![Screenshot 2025-03-25 132522](https://github.com/user-attachments/assets/c98495f0-a0c6-4f9f-9cbc-0939bc40dfb5))
    
-6. **User Profile Management**  
-   ![User Management](![image](https://github.com/user-attachments/assets/7c1982d1-f306-41fd-92b0-4376d5219f88))
+6. **Adding new users**  
+   ![Adding new users](![Screenshot 2025-03-25 132647](https://github.com/user-attachments/assets/d2f84121-8f1e-4e31-ad1c-0f8034130fb9))
    
-7. **Settings**  
-   ![Settings](![image](https://github.com/user-attachments/assets/e039ef02-b260-4ef0-a34c-e89cda8611d2))
+7. **User Profile Management**  
+   ![User Management](![Screenshot 2025-03-25 132819](https://github.com/user-attachments/assets/4885d562-6faf-43c2-9482-d167973b6727))
+   
+8. **Settings**  
+   ![Settings](![Screenshot 2025-03-25 132753](https://github.com/user-attachments/assets/948829fa-b7f8-43c0-ab39-bd2b1d62e9f5))
 
 ## Getting Started 🚀
 
